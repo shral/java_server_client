@@ -1,2 +1,2 @@
 # java_server_client
-server client in java
+test server client in java
