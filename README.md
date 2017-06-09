@@ -1,2 +1,2 @@
 # java_server_client
-test opensource server client in java
+test2 opensource server client in java
